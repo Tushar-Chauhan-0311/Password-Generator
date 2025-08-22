@@ -26,3 +26,5 @@ HTML5
 CSS3 (modern UI + animations)
 
 JavaScript (ES6)
+
+Project Link :- https://passwrdgenr.netlify.app/
